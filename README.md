@@ -1,29 +1,29 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Samuel diaz garcia
+**Profesión:** tecnologos en analisis de datos
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Teléfono:** +57 300 840 4600 
+- **Email:** [correo@ejemplo.com](samueldiaz.g2008@gmail.com)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA ** _(2025 - Actualidad)_
+- programador
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Eventos golden ** _(2024 - actualidad)_
+- mesero, en evtos de 15, matrimonios etc.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2025 - actualidad)_
+- programador
+- tecnico en asistencia administrativa 
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- ** liderazgo **
+- ** buen manejo de problemas**
+- ** manejo basico de excel**
 
 ---
 
